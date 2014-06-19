@@ -1,0 +1,4 @@
+errors
+======
+
+various error outputs
