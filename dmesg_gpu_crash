@@ -1,0 +1,9 @@
+[19537.988050] [drm] stuck on render ring
+[19537.988055] [drm] GPU crash dump saved to /sys/class/drm/card0/error
+[19537.988058] [drm] GPU hangs can indicate a bug anywhere in the entire gfx stack, including userspace.
+[19537.988059] [drm] Please file a _new_ bug report on bugs.freedesktop.org against DRI -> DRM/Intel
+[19537.988061] [drm] drm/i915 developers can then reassign to the right component if it's not a kernel issue.
+[19537.988063] [drm] The gpu crash dump is required to analyze gpu hangs, so please always attach it.
+[19537.989101] [drm:i915_set_reset_status] *ERROR* render ring hung inside bo (0x9ab5000 ctx 0) at 0x9ab6ec4
+[19538.496045] [drm:i915_reset] *ERROR* Failed to reset chip.
+[19539.132067] [drm] GMBUS [i915 gmbus vga] timed out, falling back to bit banging on pin 2
